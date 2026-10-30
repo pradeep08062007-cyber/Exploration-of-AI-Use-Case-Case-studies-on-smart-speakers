@@ -1,3 +1,9 @@
+# EXP-1
+# DATE:30.10.2026
+# NAME:PRADEEP T
+# REF NO: 212225080040
+
+
 # Exploration-of-AI-Use-Case-Case-studies-on-smart-speakers
 # AIM
 To study the application of Artificial Intelligence (AI) in smart speakers and understand how Natural Language Processing (NLP), Speech Recognition, Machine Learning, and Voice Assistant technology are used to provide intelligent services.
@@ -48,5 +54,5 @@ User Voice → Microphone → Speech Recognition → NLP → Intent Detection �
 - Text-to-Speech (TTS): Converts generated text into natural-sounding speech.
 - Generative AI: Generates natural and context-aware responses.
 - Cloud AI Services: Provide speech, language, and knowledge-processing capabilities.
-# CONCLUSION
+# RESULT
 AI-enabled smart speakers demonstrate how Artificial Intelligence can be used in everyday life. By combining Speech Recognition, NLP, Machine Learning, and Text-to-Speech technologies, smart speakers can understand voice commands and provide intelligent responses. They improve convenience, accessibility, and automation in homes and other environments.
